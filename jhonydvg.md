@@ -32,6 +32,7 @@ cl=clear
 
 mostused='history | awk '\''{print $2}'\''| sort | uniq -c | sort -nr | head -n 10'
 ```
-lulo
+lulo por 2
+
 
 
